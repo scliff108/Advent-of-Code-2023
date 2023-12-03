@@ -6,8 +6,8 @@ Using python.
 
 - [Day 1](src/day1.py)
 - [Day 2](src/day2.py)
-<!--
 - [Day 3](src/day3.py)
+<!--
 - [Day 4](src/day4.py)
 - [Day 5](src/day5.py)
 - [Day 6](src/day6.py)
