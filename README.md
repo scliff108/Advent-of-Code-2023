@@ -8,10 +8,10 @@ Using python.
 - [Day 2](src/day2.py)
 - [Day 3](src/day3.py)
 - [Day 4](src/day4.py)
-<!--
-- [Day 5](src/day5.py)
+- [Day 5](src/day5.py) 1/2 complete
 - [Day 6](src/day6.py)
 - [Day 7](src/day7.py)
+<!--
 - [Day 8](src/day8.py)
 - [Day 9](src/day9.py)
 - [Day 10](src/day10.py)

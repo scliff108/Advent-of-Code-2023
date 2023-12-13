@@ -1,6 +1,5 @@
 DAY = 0
-P1_FILENAME = 'test.txt'
-P2_FILENAME = 'test.txt'
+FILENAME = 'test.txt'
 
 def part_one(filename):
     with open(filename, 'r') as f:
@@ -17,13 +16,13 @@ def part_two(filename):
 def main():
 
     print('Part 1')
-    print(part_one(f'data/day{DAY}/{P1_FILENAME}'))
+    print(part_one(f'data/day{DAY}/{FILENAME}'))
 
     '''
     print()
     
     print('Part 2')
-    print(part_two(f'data/day{DAY}/{P2_FILENAME}'))
+    print(part_two(f'data/day{DAY}/{FILENAME}'))
     '''
 
 if __name__ == '__main__':
